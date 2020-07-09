@@ -1,0 +1,347 @@
+{
+    "rows": [
+        {
+            "country": "中国",
+            "city": "陕西省",
+            "times": "2",
+            "imgs": [
+                "陕西.jpg"
+            ],
+            "remark": "2019年陕西省GDP为25793.17亿元",
+            "longitude": "108.941433",
+            "latitude": "34.343424"
+        },
+        {
+            "country": "中国",
+            "city": "上海",
+            "times": "2",
+            "date": "2011年4月",
+            "imgs": [
+                "上海.jpg"
+            ],
+            "remark": "2019年上海市GDP为38155.32亿元",
+            "longitude": "121.55333",
+            "latitude": "31.20000"
+        },
+        {
+            "country": "中国",
+            "city": "天津市",
+            "times": "2",
+            "remark": "2019年天津市GDP为14104.28亿元",
+            "imgs": [
+                "天津.jpg"
+            ],
+            "longitude": "117.20",
+            "latitude": "39.13"
+        },
+        {
+            "country": "中国",
+            "city": "四川省",
+            "times": "2",
+            "imgs": [
+                "四川.jpg"
+            ],
+            "remark": "2019年四川省GDP为46615.82亿元",
+            "longitude": "104.06667",
+            "latitude": "30.66667"
+        },
+        {
+            "country": "中国",
+            "city": "重庆市",
+            "times": "2",
+            "imgs": [
+                "重庆.jpg"
+            ],
+            "remark": "2019年重庆市GDP为23605.77亿元",
+            "longitude": "106.45",
+            "latitude": "29.56667"
+        },
+        {
+            "country": "中国",
+            "city": "北京市",
+            "times": "2",
+			"imgs": [
+                "北京.jpg"
+            ],
+            "remark": "2019年北京市GDP为35371.30亿元",
+            "longitude": "116.399286",
+            "latitude": "39.907454"
+        },
+        {
+            "country": "中国",
+            "city": "新疆维吾尔自治区",
+            "times": "2",
+			"imgs": [
+                "新疆.jpg"
+            ],
+            "remark": "2019年新疆维吾尔自治区GDP为13597.11亿元",
+            "longitude": "87.68333",
+            "latitude": "43.76667"
+        },
+        {
+            "country": "中国",
+            "city": "福建省",
+            "times": "2",
+            "imgs": [
+                "福建.jpg"
+            ],
+            "remark": "2019年福建省GDP为42395.00亿元",
+            "longitude": "118.30",
+            "latitude": "26.083"
+        },
+        {
+            "country": "中国",
+            "city": "吉林省",
+            "times": "2",
+            "imgs": [
+                "吉林.jpg"
+            ],
+            "remark": "2019年吉林省GDP为11726.80亿元",
+            "longitude": "125.35000",
+            "latitude": "43.88333"
+        },
+        {
+            "country": "中国",
+            "city": "广东省",
+            "times": "2",
+            "imgs": [
+                "广东.jpg"
+            ],
+            "remark": "2019年广东省GDP为107671.07亿元",
+            "longitude": "113.272674",
+            "latitude": "23.157259"
+        },
+		{
+            "country": "中国",
+            "city": "河北省",
+            "times": "2",
+			"imgs": [
+                "河北.jpg"
+            ],
+            "remark": "2019年河北省GDP为35104.50亿元",
+            "longitude": "115.4833",
+            "latitude": "38.033"
+        },
+		{
+            "country": "中国",
+            "city": "山西省",
+            "times": "2",
+			"imgs": [
+                "山西.jpg"
+            ],
+            "remark": "2019年山西省GDP为17026.68亿元",
+            "longitude": "112.5333",
+            "latitude": "37.86667"
+        },
+		{
+            "country": "中国",
+            "city": "内蒙古自治区",
+            "times": "2",
+			"imgs": [
+                "内蒙古.jpg"
+            ],
+            "remark": "2019年内蒙古自治区GDP为17212.50亿元",
+            "longitude": "111.670801",
+            "latitude": "41.818311"
+        },
+		{
+            "country": "中国",
+            "city": "辽宁省",
+            "times": "2",
+			"imgs": [
+                "辽宁.jpg"
+            ],
+            "remark": "2019年辽宁省GDP为24909.50亿元",
+            "longitude": "123.3833",
+            "latitude": "41.80000"
+        },
+		{
+            "country": "中国",
+            "city": "黑龙江省",
+            "times": "2",
+			"imgs": [
+                "黑龙江.jpg"
+            ],
+            "remark": "2019年黑龙江省GDP为13612.70亿元",
+            "longitude": "127.63333",
+            "latitude": "47.75000"
+        },
+		{
+            "country": "中国",
+            "city": "江苏省",
+            "times": "2",
+			"imgs": [
+                "江苏.jpg"
+            ],
+            "remark": "2019年江苏省GDP为99631.52亿元",
+            "longitude": "119.78333",
+            "latitude": "32.05000"
+        },
+		{
+            "country": "中国",
+            "city": "浙江省",
+            "times": "2",
+			"imgs": [
+                "浙江.jpg"
+            ],
+            "remark": "2019年浙江省GDP为62352.00亿元",
+            "longitude": "120.20",
+            "latitude": "30.26667"
+        },
+		{
+            "country": "中国",
+            "city": "安徽省",
+            "times": "2",
+			"imgs": [
+                "安徽.jpg"
+            ],
+            "remark": "2019年安徽省GDP为37114.00亿元",
+            "longitude": "117.283042",
+            "latitude": "31.86119"
+        },
+		{
+            "country": "中国",
+            "city": "江西省",
+            "times": "2",
+			"imgs": [
+                "江西.jpg"
+            ],
+            "remark": "2019年江西省GDP为24757.50亿元",
+            "longitude": "115.9000",
+            "latitude": "28.68333"
+        },
+		{
+            "country": "中国",
+            "city": "山东省",
+            "times": "2",
+			"imgs": [
+                "山东.jpg"
+            ],
+            "remark": "2019年山东省GDP为71067.50亿元",
+            "longitude": "117.000923",
+            "latitude": "36.675807"
+        },
+		{
+            "country": "中国",
+            "city": "河南省",
+            "times": "2",
+			"imgs": [
+                "河南.jpg"
+            ],
+            "remark": "2019年河南省GDP为54259.20亿元",
+            "longitude": "113.65000",
+            "latitude": "34.76667"
+        },
+		{
+            "country": "中国",
+            "city": "湖北省",
+            "times": "2",
+			"imgs": [
+                "湖北.jpg"
+            ],
+            "remark": "2019年湖北省GDP为45828.31亿元",
+            "longitude": "114.298572",
+            "latitude": "30.584355"
+        },
+		{
+            "country": "中国",
+            "city": "湖南省",
+            "times": "2",
+			"imgs": [
+                "湖南.jpg"
+            ],
+            "remark": "2019年湖南省GDP为39752.12亿元",
+            "longitude": "113.00000",
+            "latitude": "28.21667"
+        },
+		{
+            "country": "中国",
+            "city": "广西壮族自治区",
+            "times": "2",
+			"imgs": [
+                "广西.jpg"
+            ],
+            "remark": "2019年广西壮族自治区GDP为21237.14亿元",
+            "longitude": "108.320004",
+            "latitude": "22.82402"
+        },
+		{
+            "country": "中国",
+            "city": "海南省",
+            "times": "2",
+			"imgs": [
+                "海南.jpg"
+            ],
+            "remark": "2019年海南省GDP为5308.94亿元",
+            "longitude": "110.3500",
+            "latitude": "20.01667"
+        },
+		{
+            "country": "中国",
+            "city": "贵州省",
+            "times": "2",
+			"imgs": [
+                "贵州.jpg"
+            ],
+            "remark": "2019年贵州省GDP为16769.34亿元",
+            "longitude": "106.71667",
+            "latitude": "26.56667"
+        },
+		{
+            "country": "中国",
+            "city": "云南省",
+            "times": "2",
+			"imgs": [
+                "云南.jpg"
+            ],
+            "remark": "2019年云南省GDP为23223.75亿元",
+            "longitude": "102.73333",
+            "latitude": "25.05000"
+        },
+		{
+            "country": "中国",
+            "city": "西藏自治区",
+            "times": "2",
+			"imgs": [
+                "西藏.jpg"
+            ],
+            "remark": "2019年西藏自治区GDP为1697.82亿元",
+            "longitude": "91.00000",
+            "latitude": "30.60000"
+        },
+		{
+            "country": "中国",
+            "city": "甘肃省",
+            "times": "2",
+			"imgs": [
+                "甘肃.jpg"
+            ],
+            "remark": "2019年甘肃省GDP为8718.30亿元",
+            "longitude": "103.73333",
+            "latitude": "36.03333"
+        },
+		{
+            "country": "中国",
+            "city": "青海省",
+            "times": "2",
+			"imgs": [
+                "青海.jpg"
+            ],
+            "remark": "2019年青海省GDP为2965.95亿元",
+            "longitude": "96.75000",
+            "latitude": "36.56667"
+        },
+		{
+            "country": "中国",
+            "city": "宁夏回族自治区",
+            "times": "2",
+			"imgs": [
+                "宁夏.jpg"
+            ],
+            "remark": "2019年宁夏回族自治区GDP为3748.48亿元",
+            "longitude": "106.26667",
+            "latitude": "37.46667"
+        }
+		
+    ]
+}
